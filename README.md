@@ -97,9 +97,18 @@
 <h2>▦ Course collections</h2>
 <p><sub>Seven collections · in preparation</sub></p>
 <table width="100%">
-<tr><td><strong>Life sciences</strong><br>Computational biology · Genomics<br><sub>Sequence models, phylogenetic inference, sampling, and statistical analysis.</sub></td></tr>
-<tr><td><strong>Language &amp; software</strong><br>NLP · Object-oriented design · Databases<br><sub>Language models, semantic tools, software design, and query processing.</sub></td></tr>
-<tr><td><strong>Vision &amp; learning</strong><br>Image processing · ML foundations<br><sub>Frequency methods, pyramids, blending, prediction, and optimization.</sub></td></tr>
+<tr><td width="18%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/collection-life-dark.svg">
+<img src="assets/collection-life-light.svg" width="80" alt="">
+</picture></td><td valign="middle"><strong>Life sciences</strong><br>Computational biology · Genomics<br><sub>Sequence models, phylogenetic inference, sampling, and statistical analysis.</sub></td></tr>
+<tr><td width="18%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/collection-language-dark.svg">
+<img src="assets/collection-language-light.svg" width="80" alt="">
+</picture></td><td valign="middle"><strong>Language &amp; software</strong><br>NLP · Object-oriented design · Databases<br><sub>Language models, semantic tools, software design, and query processing.</sub></td></tr>
+<tr><td width="18%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/collection-vision-dark.svg">
+<img src="assets/collection-vision-light.svg" width="80" alt="">
+</picture></td><td valign="middle"><strong>Vision &amp; learning</strong><br>Image processing · ML foundations<br><sub>Frequency methods, pyramids, blending, prediction, and optimization.</sub></td></tr>
 </table>
 
 <p><sub>Project artwork is schematic. Linked figures and the panorama are original project artifacts.</sub></p>
