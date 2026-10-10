@@ -2,10 +2,8 @@
 <source media="(max-width: 520px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
 <source media="(max-width: 520px)" srcset="assets/hero-mobile-light.svg">
 <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-<img src="assets/hero-light.svg" width="100%" alt="Roee Tekoah — exploring how systems work and building ways to understand them.">
+<img src="assets/hero-light.svg" width="100%" alt="Roee Tekoah — security research, algorithm design, and computational science.">
 </picture>
-
-<p>I reverse-engineer systems, build algorithms, and explore questions in computational science.<br>Here are some things I have built, investigated, and written along the way.</p>
 
 <p><a href="assets/CV.pdf"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/cv-dark.svg">
@@ -19,16 +17,13 @@
 <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg">
 <img src="assets/email-light.svg" width="83" alt="Email">
 </picture></a>
-<a href="https://doi.org/10.1107/S1600576718018046"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/paper-dark.svg">
-<img src="assets/paper-light.svg" width="124" alt="Publication">
-</picture></a></p>
+</p>
 
 <p><sub>Background: JSOF · Matzov · Mobileye · Raviv Research Group<br>Computer Science at the Hebrew University of Jerusalem.</sub></p>
 
-<h2>◈ Selected work</h2>
+<h2>◈ Selected public work</h2>
 
-<p>Biological questions, mathematical structure, and the algorithms in between.</p>
+<p>Academic and independent projects I can share; my broader professional experience is in the CV.</p>
 
 <table width="100%">
 
@@ -60,22 +55,18 @@
 
 <h2>⌘ Algorithms in practice</h2>
 
-<table width="100%"><tr>
-
-<td width="50%" valign="top"><img src="assets/panorama.png" width="100%" alt="Iguazu panorama from the video-mosaicing project; visible seams and canvas boundaries are retained."><h3>Video mosaicing</h3>
+<table width="100%"><tr><td><a href="assets/panorama.png"><img src="assets/panorama.png" width="100%" alt="Courtyard panorama from the video-mosaicing project, using optimized seams. Original output shown unchanged."></a><h3>Video mosaicing</h3>
 <p>From video frames to panoramas: registration, warping, and compositing.</p>
 <p><sub>Python · Numerical methods</sub></p>
-<p><a href="assets/panorama.png">Panorama output ↗</a> &nbsp;·&nbsp; <sub>Preparing release</sub></p></td>
+<p><a href="assets/panorama.png">Panorama output ↗</a> &nbsp;·&nbsp; <sub>Preparing release</sub></p></td></tr></table>
 
-<td width="50%" valign="top"><picture>
+<table width="100%"><tr><td><p align="center"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/parsing-dark.svg">
-<img src="assets/parsing-light.svg" width="100%" alt="Dependency parsing — conceptual illustration">
-</picture><h3>Dependency parsing</h3>
+<img src="assets/parsing-light.svg" width="500" alt="Dependency diagram: reveal governs models (subject) and structure (object). Conceptual illustration.">
+</picture></p><h3>Dependency parsing</h3>
 <p>Learning sentence structure with spanning trees and transformer attention features.</p>
 <p><sub>Python · NLP</sub></p>
-<p><sub>Preparing release</sub></p></td>
-
-</tr></table>
+<p><sub>Preparing release</sub></p></td></tr></table>
 
 <table width="100%"><tr>
 
@@ -104,65 +95,11 @@
 <details><summary><strong>Inside the Quantum project</strong> — proofs, a paper review, and a coursebook draft</summary><p><strong>Final Project — Part I</strong> covers deferred measurements, quantum codes, circuit depth, discrete logarithms, and fingerprinting. A separate paper review and a coursebook draft provide further reading.</p><p>The project is currently private while I prepare its public edition.</p></details>
 
 <h2>▦ Course collections</h2>
-
-<p>Selected implementations with the explanations and experiments that connect them.<br><sub>Collections in preparation.</sub></p>
-
-<p><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-cbio-dark.svg">
-<img src="assets/course-cbio-light.svg" width="178" alt="Computational biology">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-nlp-dark.svg">
-<img src="assets/course-nlp-light.svg" width="92" alt="NLP">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-image-dark.svg">
-<img src="assets/course-image-light.svg" width="143" alt="Image processing">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-oop-dark.svg">
-<img src="assets/course-oop-light.svg" width="185" alt="Object-oriented design">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-genomics-dark.svg">
-<img src="assets/course-genomics-light.svg" width="92" alt="Genomics">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-db-dark.svg">
-<img src="assets/course-db-light.svg" width="94" alt="Databases">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/course-iml-dark.svg">
-<img src="assets/course-iml-light.svg" width="129" alt="ML foundations">
-</picture></p>
-
-<details><summary>Explore the collection themes</summary><ul><li><strong>Computational biology:</strong> segmentation, HMMs, and phylogenetic inference.</li><li><strong>NLP:</strong> language models, classification, tagging, and sentiment.</li><li><strong>Image processing:</strong> frequency methods, pyramids, blending, and synthesis.</li><li><strong>Object-oriented design:</strong> games, ASCII art, procedural simulation, and language tooling.</li><li><strong>Genomics:</strong> coverage, sampling, library complexity, and statistical inference.</li><li><strong>Databases:</strong> queries, execution plans, and normalization.</li><li><strong>ML foundations:</strong> regression, classification, boosting, and optimization.</li></ul></details>
-
-<h2>＋ Tools I work with</h2>
-
-<p><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/tool-Python-dark.svg">
-<img src="assets/tool-Python-light.svg" width="90" alt="Python">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/tool-C++-dark.svg">
-<img src="assets/tool-C++-light.svg" width="70" alt="C++">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/tool-C-dark.svg">
-<img src="assets/tool-C-light.svg" width="53" alt="C">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/tool-Java-dark.svg">
-<img src="assets/tool-Java-light.svg" width="72" alt="Java">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/tool-R-dark.svg">
-<img src="assets/tool-R-light.svg" width="53" alt="R">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/tool-SQL-dark.svg">
-<img src="assets/tool-SQL-light.svg" width="67" alt="SQL">
-</picture></p>
+<p><sub>Seven collections · in preparation</sub></p>
+<table width="100%">
+<tr><td><strong>Life sciences</strong><br>Computational biology · Genomics<br><sub>Sequence models, phylogenetic inference, sampling, and statistical analysis.</sub></td></tr>
+<tr><td><strong>Language &amp; software</strong><br>NLP · Object-oriented design · Databases<br><sub>Language models, semantic tools, software design, and query processing.</sub></td></tr>
+<tr><td><strong>Vision &amp; learning</strong><br>Image processing · ML foundations<br><sub>Frequency methods, pyramids, blending, prediction, and optimization.</sub></td></tr>
+</table>
 
 <p><sub>Project artwork is schematic. Linked figures and the panorama are original project artifacts.</sub></p>
