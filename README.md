@@ -114,7 +114,7 @@
 <img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four selected Garden source frames above the panorama produced by the current robust-registration and rectified manifold pipeline. Click to watch the actual panorama sweep.">
 </picture></a>
 <h3>Video mosaicing</h3>
-<p>Real Garden footage processed by the current pipeline: 488 decoded frames, 260 motion-selected observations, and 21 panorama views. Robust model selection and Peleg-style rectified strips reduce accumulated distortion; the recorded five-pair comparison lowers median correspondence error from 1.71 to 0.51 pixels.</p>
+<p>Real Garden footage processed by the current pipeline: 488 decoded frames, 260 motion-selected observations, and 101 views sharing one fixed rectified atlas. Robust model selection and Peleg-style strips reduce accumulated distortion; the recorded five-pair registration comparison lowers median correspondence error from 1.71 to 0.51 pixels.</p>
 <p><sub>Python · Computer vision · Original coursework grade: 100/100</sub></p>
 <p><a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the actual panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/pipeline-walkthrough.md">Algorithm walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
