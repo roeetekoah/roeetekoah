@@ -147,8 +147,8 @@
 <p><sub>Preparing release</sub></p></td>
 
 <td width="50%" valign="top"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/collection-language-dark.svg">
-<img src="assets/collection-language-light.svg" width="100%" alt="Course collections — compact conceptual illustration">
+<source media="(prefers-color-scheme: dark)" srcset="assets/course-collections-card-dark.svg">
+<img src="assets/course-collections-card-light.svg" width="100%" alt="Seven course collections connected across computation, science, and software. Conceptual illustration.">
 </picture><h3>Course collections</h3>
 <p>Connected labs, reports, and notes across seven areas of the degree.</p>
 <p><sub>Algorithms · Experiments · Explanatory writing</sub></p>

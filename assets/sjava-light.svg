@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260" role="img"><title>sjava: original conceptual illustration, not an experimental result</title><rect width="500" height="260" rx="12" fill="#eaf4f0"/><rect x="53" y="58" width="394" height="151" rx="8" fill="#eaf4f0" stroke="#c4ddd3"/><text x="74" y="94" fill="#173e3b" font-family="monospace" font-size="18" font-weight="400" >void inspect(int value) {</text><text x="94" y="130" fill="#117b65" font-family="monospace" font-size="18" font-weight="400" >if (value) { ... }</text><text x="74" y="165" fill="#173e3b" font-family="monospace" font-size="18" font-weight="400" >}</text><text x="292" y="190" fill="#487f92" font-family="monospace" font-size="14" font-weight="500" >scope · type</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260" role="img">
+<title>Sjava semantic verification: declarations pass through scope and type checks. Conceptual illustration.</title>
+<defs>
+  <linearGradient id="field-sl" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce9df"/><stop offset="1" stop-color="#eef3ee"/></linearGradient>
+  <radialGradient id="glow-sl"><stop stop-color="#0f826f" stop-opacity=".18"/><stop offset="1" stop-color="#0f826f" stop-opacity="0"/></radialGradient>
+  <marker id="arrow-sl" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7Z" fill="#0f826f"/></marker>
+</defs>
+<rect width="500" height="260" rx="14" fill="#eef3ee"/>
+<path d="M-20 26C71-13 152 14 180 72C205 124 163 166 59 166C0 166-31 110-20 26Z" fill="url(#field-sl)"/>
+<ellipse cx="405" cy="42" rx="126" ry="91" fill="url(#glow-sl)"/>
+
+<text x="25" y="31" fill="#58766f" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.1">STATIC ANALYSIS</text>
+<text x="475" y="31" fill="#0f826f" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.8">VERIFY</text>
+<rect x="28" y="56" width="304" height="157" rx="10" fill="#f7faf7" stroke="#bfd3ca"/>
+<circle cx="47" cy="74" r="3" fill="#cc7b4f"/><circle cx="59" cy="74" r="3" fill="#bfd3ca"/><circle cx="71" cy="74" r="3" fill="#0f826f"/>
+<text x="48" y="107" fill="#58766f" font-family="Consolas, monospace" font-size="13">int count = 3;</text>
+<text x="48" y="136" fill="#173f3b" font-family="Consolas, monospace" font-size="13">if (count &gt; 0) &#123;</text>
+<text x="68" y="165" fill="#0f826f" font-family="Consolas, monospace" font-size="13">String state = "valid";</text>
+<text x="48" y="194" fill="#173f3b" font-family="Consolas, monospace" font-size="13">&#125;</text>
+<path d="M337 95C360 95 364 89 376 83" fill="none" stroke="#0f826f" stroke-width="2.6" marker-end="url(#arrow-sl)"/>
+<path d="M337 145C360 145 365 145 376 145" fill="none" stroke="#0f826f" stroke-width="2.6" marker-end="url(#arrow-sl)"/>
+<path d="M337 192C359 192 365 199 376 205" fill="none" stroke="#0f826f" stroke-width="2.6" marker-end="url(#arrow-sl)"/>
+<circle cx="410" cy="78" r="26" fill="#0f826f" opacity=".12"/><circle cx="410" cy="78" r="7" fill="#0f826f"/>
+<circle cx="432" cy="145" r="34" fill="none" stroke="#bfd3ca" stroke-width="1.3"/><circle cx="432" cy="145" r="21" fill="#0f826f" opacity=".11"/><circle cx="432" cy="145" r="5" fill="#0f826f"/>
+<circle cx="405" cy="211" r="24" fill="#cc7b4f" opacity=".13"/><path d="M395 211l7 7 15-17" fill="none" stroke="#cc7b4f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="448" y="80" fill="#58766f" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.1">DECLARE</text>
+<text x="462" y="148" fill="#58766f" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.1">TYPE</text>
+<text x="437" y="216" fill="#cc7b4f" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.1">SCOPE</text>
+<path d="M392 104C379 119 383 131 397 136M410 104C424 116 425 124 429 129M414 170C412 182 410 188 408 192" fill="none" stroke="#bfd3ca" stroke-width="1.2" stroke-dasharray="3 5"/>
+
+</svg>
