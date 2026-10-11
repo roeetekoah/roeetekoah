@@ -25,26 +25,23 @@
 
 <p>Research questions, computational work, and the writing that makes the evidence inspectable.</p>
 
-<table width="100%"><tr><td>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dppc-research-dark.svg">
-<img src="assets/dppc-research-light.svg" width="100%" alt="Editorial illustration of a DPPC lipid bilayer beside X-ray scattering peaks.">
-</picture>
-<h3>Ion–lipid interactions in DPPC membranes</h3>
-<p>Experimental X-ray scattering analysis of calcium binding, membrane structure, and osmotic stress, with an unpublished paper draft and extensive supporting data under release review.</p>
-<p><sub>Research case study · MATLAB / Python · Unpublished manuscript</sub></p>
-<p><sub>Private · preparing a rights-cleared public edition</sub></p>
-</td></tr></table>
-
 <table width="100%">
-<tr><td width="31%" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dplus-paper-dark.svg">
-<img src="assets/dplus-paper-light.svg" width="100%" alt="D+ published research, 2019. Editorial artwork.">
-</picture></td><td width="69%" valign="top">
+<tr><td width="19%" align="center" valign="top"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/writing-paper-dark.svg">
+<img src="assets/writing-paper-light.svg" width="100" alt="">
+</picture></td><td valign="top">
 <h3><a href="https://doi.org/10.1107/S1600576718018046">D+ · Hierarchical modeling of X-ray scattering</a></h3>
 <p><strong>Coauthor</strong> · <em>Journal of Applied Crystallography</em> · 2019</p>
 <p>Hierarchical structural modeling and efficient computation of solution-scattering curves, with numerical validation and an application to microtubules.</p>
 <p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6495662/">Read the open-access paper ↗</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1107/S1600576718018046">Publication record ↗</a></p>
+</td></tr>
+<tr><td width="19%" align="center" valign="top"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/writing-dppc-dark.svg">
+<img src="assets/writing-dppc-light.svg" width="100" alt="">
+</picture></td><td valign="top">
+<h3>Ion–lipid interactions in DPPC membranes</h3>
+<p>Experimental X-ray scattering analysis of calcium binding, membrane structure, and osmotic stress, with an unpublished paper draft under release review.</p>
+<p><sub>Research project · MATLAB / Python · Unpublished manuscript · Private</sub></p>
 </td></tr>
 <tr><td width="19%" align="center" valign="top"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/writing-quantum-dark.svg">
@@ -64,13 +61,25 @@
 
 <table width="100%">
 <tr><td width="31%" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dplus-xplus-card-dark.svg">
-<img src="assets/dplus-xplus-card-light.svg" width="100%" alt="D+ and X+ scientific software — conceptual illustration.">
-</picture></td><td width="69%" valign="top"><h3>D+ / X+ scientific software</h3>
-<p>Modeling solution X-ray scattering in the Raviv Research Group.</p>
-<p>I developed C++ analysis algorithms and polymer modules, built a C# repeating-subunit detector, and contributed to an octree-based protein hydration-shell algorithm.</p>
-<p><sub>C++ · C# · Scientific computing</sub></p>
-<p><a href="https://github.com/uri-raviv-lab/dplus-dev">D+ repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/uri-raviv-lab/dplus-dev/tree/development/X%2B">X+ code ↗</a></p></td></tr>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dplus-dark.svg">
+<img src="assets/dplus-light.svg" width="100%" alt="D+ hierarchical structural modeling — conceptual illustration.">
+</picture></td><td width="69%" valign="top"><h3>D+ scientific software</h3>
+<p>An open-source platform for hierarchical modeling and high-performance calculation of solution X-ray scattering from complex structures.</p>
+<p><sub>C++ · Scientific computing · Published research</sub></p>
+<p><a href="https://github.com/uri-raviv-lab/dplus-dev">Explore D+ ↗</a> &nbsp;·&nbsp; <a href="https://uriraviv.huji.ac.il/pages/software">Software overview ↗</a></p></td></tr>
+
+<tr><td width="31%" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/xplus-dark.svg">
+<img src="assets/xplus-light.svg" width="100%" alt="X+ supramolecular structure analysis — conceptual illustration.">
+</picture></td><td width="69%" valign="top"><h3>X+ scientific software</h3>
+<p>A related scientific-computing system for analyzing repeating structure in supramolecular assemblies.</p>
+<p><sub>C++ · C# · Geometry · Scientific computing</sub></p>
+<p><a href="https://github.com/uri-raviv-lab/dplus-dev/tree/development/X%2B">Explore X+ ↗</a></p></td></tr>
+</table>
+
+<blockquote><strong>My work across D+ and X+:</strong> designed and implemented C++ algorithms for X-ray scattering analysis, including polymer-structure modules; developed a C# system that identifies repeating subunits through geometric transformations, achieving approximately 10× speedup at equal computational precision; and contributed to an octree-based algorithm for efficient protein hydration-shell identification.</blockquote>
+
+<table width="100%">
 
 <tr><td width="31%" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/graft-dark.svg">
