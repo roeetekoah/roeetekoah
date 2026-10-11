@@ -101,12 +101,12 @@
 <table width="100%"><tr><td>
 <a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/video-mosaicing-real-dark.png">
-<img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four successive real frames from the Garden video above the wide panorama assembled from them by the video-mosaicing pipeline. Click to watch the output video.">
+<img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four real Garden input frames above a saved panorama from the original rigid Lucas-Kanade coursework pipeline. Click to explore the project.">
 </picture></a>
 <h3>Video mosaicing</h3>
-<p>From 488 decoded frames, the pipeline registered 80 samples and produced 100 locally rectified panorama views, with every output pixel linked to its source.</p>
+<p>The Garden example shows the original rigid Lucas–Kanade pipeline: 488 decoded frames, 80 registered samples, and 100 panorama views. The current release adds robust feature-based registration and locally rectified manifold strips.</p>
 <p><sub>Python · Computer vision · Original coursework grade: 100/100</sub></p>
-<p><a href="https://github.com/roeetekoah/video-mosaicing">Explore the project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the video ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
+<p><a href="https://github.com/roeetekoah/video-mosaicing">Explore the project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/pipeline-walkthrough.md">Algorithm walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
 
 <table width="100%"><tr>
