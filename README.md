@@ -50,10 +50,11 @@
 <source media="(prefers-color-scheme: dark)" srcset="assets/writing-quantum-dark.svg">
 <img src="assets/writing-quantum-light.svg" width="100" alt="">
 </picture></td><td valign="top">
-<h3>Inside the Quantum project</h3>
+<h3><a href="https://github.com/roeetekoah/quantum-computation">Inside the Quantum project</a></h3>
 <p>Proofs, a research-paper review, and a coursebook draft.</p>
-<details><summary>Explore the writing</summary><p><strong>Final Project — Part I</strong> covers deferred measurements, quantum codes, circuit depth, discrete logarithms, and fingerprinting. A separate paper review and coursebook draft provide further reading.</p><p>The project is currently private while I prepare its public edition.</p></details>
-<p><sub>Mathematical writing · Private · preparing release</sub></p>
+<details><summary>Explore the writing</summary><p><strong>Final Project — Part I</strong> covers deferred measurements, quantum codes, circuit depth, discrete logarithms, and fingerprinting. A separate paper review and sixteen-chapter coursebook draft provide further reading.</p></details>
+<p><sub>Mathematical writing · Public working edition</sub></p>
+<p><a href="https://github.com/roeetekoah/quantum-computation">Explore repository ↗</a></p>
 </td></tr>
 </table>
 
@@ -91,9 +92,9 @@
 <source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
 <img src="assets/quantum-light.svg" width="100%" alt="Quantum computation — conceptual illustration">
 </picture></td><td width="69%" valign="top"><h3>Quantum computation</h3>
-<p>Proofs, quantum algorithms, and a research-paper review, with a coursebook draft in development.</p>
+<p>Proofs, quantum algorithms, and a research-paper review, with a sixteen-chapter coursebook draft.</p>
 <p><sub>Quantum algorithms · Mathematical writing</sub></p>
-<p><sub>Private · preparing release</sub></p></td></tr>
+<p><a href="https://github.com/roeetekoah/quantum-computation">Explore repository ↗</a></p></td></tr>
 </table>
 
 <h2>⌘ Algorithms in practice</h2>
