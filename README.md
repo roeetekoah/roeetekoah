@@ -99,9 +99,12 @@
 <h2>⌘ Algorithms in practice</h2>
 
 <table width="100%"><tr><td>
-<a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing"><img src="assets/video-mosaicing-demo.gif" width="100%" alt="Animated procedural camera scan and actual rectified panorama, revealed using each pixel's source frame. Click to watch the video."></a>
+<a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/video-mosaicing-real-dark.png">
+<img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four successive real frames from the Garden video above the wide panorama assembled from them by the video-mosaicing pipeline. Click to watch the output video.">
+</picture></a>
 <h3>Video mosaicing</h3>
-<p>Robust motion estimation and locally rectified manifold strips turn continuous camera scans into wide panoramas, with every output pixel linked to its source.</p>
+<p>From 488 decoded frames, the pipeline registered 80 samples and produced 100 locally rectified panorama views, with every output pixel linked to its source.</p>
 <p><sub>Python · Computer vision · Original coursework grade: 100/100</sub></p>
 <p><a href="https://github.com/roeetekoah/video-mosaicing">Explore the project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the video ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
@@ -159,4 +162,4 @@
 </picture></td><td valign="middle"><strong>Vision &amp; learning</strong><br>Image processing · ML foundations<br><sub>Frequency methods, pyramids, blending, prediction, and optimization.</sub></td></tr>
 </table>
 
-<p><sub>The video-mosaicing animation shows a procedural input scan and actual pipeline output; the original coursework panorama is also linked. Other project artwork is conceptual; linked project figures are original artifacts.</sub></p>
+<p><sub>The video-mosaicing showcase uses genuine source frames and genuine pipeline output from Garden.mp4. Other project artwork is conceptual; linked project figures are original artifacts.</sub></p>
