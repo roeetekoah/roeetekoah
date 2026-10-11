@@ -81,9 +81,9 @@
 
 <tr><td width="31%" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/liver-dark.svg">
-<img src="assets/liver-light.svg" width="100%" alt="Liver zonation computational reanalysis — conceptual illustration">
-</picture></td><td width="69%" valign="top"><h3>Reassessing Liver Zonation in Chronic Disease</h3>
-<p>A donor-level reanalysis of single-nucleus RNA evidence, sampling effects, and acquisition confounds, supported by a custom Python/R workflow.</p>
+<img src="assets/liver-light.svg" width="100%" alt="LiZARD liver-zonation reanalysis — conceptual illustration">
+</picture></td><td width="69%" valign="top"><h3>LiZARD</h3>
+<p><strong>Liver Zonation Analysis, Robustness &amp; Donor effects:</strong> a donor-aware computational reanalysis of single-nucleus RNA evidence, sampling effects, and acquisition confounds in chronic disease.</p>
 <p><sub>Python / R · Statistical inference · Course-project grade: 96/100</sub></p>
 <p><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr>
 
