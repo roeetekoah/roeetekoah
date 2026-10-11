@@ -111,12 +111,12 @@
 <table width="100%"><tr><td>
 <a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/video-mosaicing-real-dark.png">
-<img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four real Garden input frames above a saved panorama from the original rigid Lucas-Kanade coursework pipeline. Click to explore the project.">
+<img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four selected Garden source frames above the panorama produced by the current robust-registration and rectified manifold pipeline. Click to watch the actual panorama sweep.">
 </picture></a>
 <h3>Video mosaicing</h3>
-<p>The Garden example shows the original rigid Lucas–Kanade pipeline: 488 decoded frames, 80 registered samples, and 100 panorama views. The current release adds robust feature-based registration and locally rectified manifold strips.</p>
+<p>Real Garden footage processed by the current pipeline: 488 decoded frames, 260 motion-selected observations, and 21 panorama views. Robust model selection and Peleg-style rectified strips reduce accumulated distortion; the recorded five-pair comparison lowers median correspondence error from 1.71 to 0.51 pixels.</p>
 <p><sub>Python · Computer vision · Original coursework grade: 100/100</sub></p>
-<p><a href="https://github.com/roeetekoah/video-mosaicing">Explore the project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/pipeline-walkthrough.md">Algorithm walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
+<p><a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the actual panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/pipeline-walkthrough.md">Algorithm walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
 
 <table width="100%"><tr>
