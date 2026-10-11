@@ -99,11 +99,11 @@
 <h2>⌘ Algorithms in practice</h2>
 
 <table width="100%"><tr><td>
-<a href="https://github.com/roeetekoah/video-mosaicing/blob/main/assets/demo.mp4"><img src="assets/video-mosaicing-demo.gif" width="100%" alt="Animated procedural camera scan and actual rectified panorama, revealed using each pixel's source frame. Click to watch the video."></a>
+<a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing"><img src="assets/video-mosaicing-demo.gif" width="100%" alt="Animated procedural camera scan and actual rectified panorama, revealed using each pixel's source frame. Click to watch the video."></a>
 <h3>Video mosaicing</h3>
 <p>Robust motion estimation and locally rectified manifold strips turn continuous camera scans into wide panoramas, with every output pixel linked to its source.</p>
 <p><sub>Python · Computer vision · Original coursework grade: 100/100</sub></p>
-<p><a href="https://github.com/roeetekoah/video-mosaicing">Explore the project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/assets/demo.mp4">Watch the video ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
+<p><a href="https://github.com/roeetekoah/video-mosaicing">Explore the project ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the video ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
 
 <table width="100%"><tr>
