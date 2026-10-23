@@ -34,15 +34,15 @@
 <tbody><tr><td width="34%" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/graft-dark.svg">
 <img src="assets/graft-light.svg" width="100%" alt="GraFT">
-</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/GraFT">GraFT</a></strong><br>Finding candidate gene-transfer signals in protein-similarity graphs.</p><p><sub>Python · Graph algorithms · Course-project grade: 100/100</sub><br><a href="https://github.com/roeetekoah/GraFT">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/graft-figure.png">Project figure ↗</a></p></td></tr></tbody>
+</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/GraFT">GraFT</a></strong><br>Finding candidate gene-transfer signals in protein-similarity graphs.</p><p><sub>Python · Graph algorithms</sub><br><img src="assets/project-grade-100.svg" width="180" height="24" align="absmiddle" alt="Course-project grade: 100/100"><br><a href="https://github.com/roeetekoah/GraFT">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/graft-figure.png">Project figure ↗</a></p></td></tr></tbody>
 <tbody><tr><td width="34%" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/liver-dark.svg">
 <img src="assets/liver-light.svg" width="100%" alt="LiZARD">
-</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/liver-zonation">LiZARD</a></strong><br>Donor-aware reanalysis of liver single-nucleus RNA evidence, testing zonation, sampling effects, and acquisition confounds in chronic disease.</p><p><sub>Python / R · Statistical inference · Course-project grade: 96/100</sub><br><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr></tbody>
+</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/liver-zonation">LiZARD</a></strong><br>Donor-aware reanalysis of liver single-nucleus RNA evidence, testing zonation, sampling effects, and acquisition confounds in chronic disease.</p><p><sub>Python / R · Statistical inference</sub><br><img src="assets/project-grade-96.svg" width="180" height="24" align="absmiddle" alt="Course-project grade: 96/100"><br><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr></tbody>
 <tbody><tr><td width="34%" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
 <img src="assets/quantum-light.svg" width="100%" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
-</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/quantum-computation">Quantum Algorithms, Codes &amp; Circuit Complexity</a></strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Advanced theoretical coursework · Final-project grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read the report ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Mean-estimation review ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation">Repository ↗</a></p></td></tr></tbody>
+</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/quantum-computation">Quantum Algorithms, Codes &amp; Circuit Complexity</a></strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Advanced theoretical coursework</sub><br><img src="assets/project-grade-98.svg" width="180" height="24" align="absmiddle" alt="Final-project grade: 98/100"><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read the report ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Mean-estimation review ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation">Repository ↗</a></p></td></tr></tbody>
 </table>
 
 <h2>⌘ Algorithms in practice</h2>
@@ -53,27 +53,27 @@
 <img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four selected Garden source frames above the panorama produced by the current robust-registration and rectified manifold pipeline. Click to watch the actual panorama sweep.">
 </picture></a>
 <h3><a href="https://github.com/roeetekoah/video-mosaicing">Video mosaicing</a></h3>
-<p>Real Garden footage processed by the current pipeline: 488 decoded frames, 260 motion-selected observations, and 101 views sharing one fixed rectified atlas. Robust model selection and Peleg-style strips reduce accumulated distortion; the recorded five-pair registration comparison lowers median correspondence error from 1.71 to 0.51 pixels.</p>
-<p><sub>Python · Computer vision · Original coursework grade: 100/100</sub></p>
-<p><a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the actual panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/pipeline-walkthrough.md">Algorithm walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
+<p>Moving-viewpoint panoramas from a continuous camera scan, built on direct pyramidal Lucas–Kanade alignment, coordinated strip selection and seam blending. A depth-aware LK extension compensates local parallax in selected scenes; the published gallery uses the original rendering where it gives the better result.</p>
+<p><sub>Python · Computer vision</sub><br><img src="assets/project-grade-96.svg" width="180" height="24" align="absmiddle" alt="Original coursework grade: 96/100"></p>
+<p><a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the actual panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk-evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
 
 <table width="100%"><tr>
 <td width="50%" valign="top"><p><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/parsing-dark.svg">
 <img src="assets/parsing-light.svg" width="100%" alt="Dependency parsing">
-</picture></p><p><strong>Dependency parsing</strong><br>Learning sentence structure with maximum spanning trees and transformer attention features.</p><p><sub>Python · NLP · Structured prediction<br>Preparing release</sub></p></td>
+</picture></p><p><strong>Dependency parsing</strong><br>Learning sentence structure with maximum spanning trees and transformer attention features.</p><p><sub>Python · NLP · Structured prediction</sub><br><img src="assets/project-grade-100.svg" width="180" height="24" align="absmiddle" alt="Course-project grade: 100/100"><br><sub>Preparing release</sub></p></td>
 <td width="50%" valign="top"><p><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/aligner-dark.svg">
 <img src="assets/aligner-light.svg" width="100%" alt="Short-read aligner">
-</picture></p><p><strong>Short-read aligner</strong><br>Seed-and-extend read mapping, with a reference implementation and benchmark experiments.</p><p><sub>Python · Algorithms · Grade: 100/100<br>Preparing release</sub></p></td>
+</picture></p><p><strong>Short-read aligner</strong><br>Seed-and-extend read mapping, with a reference implementation and benchmark experiments.</p><p><sub>Python · Algorithms</sub><br><img src="assets/project-grade-100.svg" width="180" height="24" align="absmiddle" alt="Course-project grade: 100/100"><br><sub>Preparing release</sub></p></td>
 </tr></table>
 
 <table width="100%"><tr>
 <td width="50%" valign="top"><p><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/sjava-dark.svg">
 <img src="assets/sjava-light.svg" width="100%" alt="Sjava verifier">
-</picture></p><p><strong>Sjava verifier</strong><br>Scopes, types, and semantic checks for a restricted Java-like language.</p><p><sub>Java · Software design<br>Preparing release</sub></p></td>
+</picture></p><p><strong>Sjava verifier</strong><br>Scopes, types, and semantic checks for a restricted Java-like language.</p><p><sub>Java · Software design</sub><br><img src="assets/project-grade-100.svg" width="180" height="24" align="absmiddle" alt="Course-project grade: 100/100"><br><sub>Preparing release</sub></p></td>
 <td width="50%" valign="top"><p><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/course-collections-card-dark.svg">
 <img src="assets/course-collections-card-light.svg" width="100%" alt="Course collections">
