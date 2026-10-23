@@ -17,52 +17,32 @@
 </picture></a><br>
 <sub>Background: JSOF · Matzov · Mobileye · Raviv Research Group<br>Computer Science at the Hebrew University of Jerusalem.</sub></p>
 
-<h2>↗ Research &amp; writing</h2>
-<p>Research questions, computational work, and writing that makes the evidence inspectable.</p>
+<h2>↗ Research &amp; Computational Science</h2>
 <table width="100%">
-<tbody>
-<tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/writing-paper-dark.svg">
-<img src="assets/writing-paper-light.svg" width="96" alt="D+ · Hierarchical modeling of X-ray scattering">
-</picture></td><td valign="middle"><p><strong><a href="https://doi.org/10.1107/S1600576718018046">D+ · Hierarchical modeling of X-ray scattering</a></strong><br>Hierarchical structural modeling and efficient solution-scattering calculations, with numerical validation and a microtubule application.</p><p><sub>Coauthor · <em>Journal of Applied Crystallography</em> · 2019</sub><br><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6495662/">Open-access paper ↗</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1107/S1600576718018046">Publication record ↗</a></p></td></tr>
-</tbody>
-<tbody>
-<tr><td width="120" align="center" valign="middle"><picture>
+<tbody><tr><td width="120" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/project-dplus-dark.svg">
+<img src="assets/project-dplus-light.svg" width="96" alt="D+ · Hierarchical modeling of X-ray scattering">
+</picture></td><td valign="middle"><p><strong>D+ · Hierarchical modeling of X-ray scattering</strong><br>An open-source platform for hierarchical structural modeling and high-performance solution-scattering calculations, with a coauthored paper in the Journal of Applied Crystallography.</p><p><sub>C++ · Scientific computing · Coauthor, J. Appl. Cryst. (2019)</sub><br><a href="https://github.com/uri-raviv-lab/dplus-dev">Explore software ↗</a> &nbsp;·&nbsp; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6495662/">Read the paper ↗</a></p></td></tr></tbody>
+<tbody><tr><td width="120" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/project-xplus-dark.svg">
+<img src="assets/project-xplus-light.svg" width="96" alt="X+ · Supramolecular structure analysis">
+</picture></td><td valign="middle"><p><strong>X+ · Supramolecular structure analysis</strong><br>A scientific-computing system for analyzing repeating structure in supramolecular assemblies.</p><p><sub>C++ · C# · Geometry · Scientific computing</sub><br><a href="https://github.com/uri-raviv-lab/dplus-dev/tree/development/X%2B">Explore X+ ↗</a></p><details><summary>My contributions across D+ and X+</summary><p>Designed and implemented C++ algorithms for X-ray scattering analysis, including polymer-structure modules; developed a C# system that identifies repeating subunits through geometric transformations, achieving approximately 10× speedup at equal computational precision; and contributed to an octree-based algorithm for efficient protein hydration-shell identification.</p></details></td></tr></tbody>
+<tbody><tr><td width="120" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/writing-dppc-dark.svg">
-<img src="assets/writing-dppc-light.svg" width="96" alt="SaLSA — Salt–Lipid Scattering Analysis">
-</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/SaLSA">SaLSA · Salt–Lipid Scattering Analysis</a></strong><br>Investigating how five metal salts affect DPPC membrane organization and lamellar spacing using small-angle X-ray scattering.</p><p><sub>SAXS · Experimental research · 2017–2018</sub><br><a href="https://github.com/roeetekoah/SaLSA">Explore repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/SaLSA/blob/main/output/pdf/main.pdf">Read manuscript ↗</a></p></td></tr>
-</tbody>
-<tbody>
-<tr><td width="120" align="center" valign="middle"><picture>
+<img src="assets/writing-dppc-light.svg" width="96" alt="SaLSA · Salt–Lipid Scattering Analysis">
+</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/SaLSA">SaLSA · Salt–Lipid Scattering Analysis</a></strong><br>Investigating how five metal salts affect DPPC membrane organization and lamellar spacing using small-angle X-ray scattering.</p><p><sub>SAXS · Experimental research · 2017–2018</sub><br><a href="https://github.com/roeetekoah/SaLSA">Explore repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/SaLSA/blob/main/output/pdf/main.pdf">Read manuscript ↗</a></p></td></tr></tbody>
+<tbody><tr><td width="120" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/project-graft-dark.svg">
+<img src="assets/project-graft-light.svg" width="96" alt="GraFT">
+</picture></td><td valign="middle"><p><strong>GraFT</strong><br>Finding candidate gene-transfer signals in protein-similarity graphs.</p><p><sub>Python · Graph algorithms · Course-project grade: 100/100</sub><br><a href="https://github.com/roeetekoah/GraFT">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/graft-figure.png">Project figure ↗</a></p></td></tr></tbody>
+<tbody><tr><td width="120" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/project-lizard-dark.svg">
+<img src="assets/project-lizard-light.svg" width="96" alt="LiZARD">
+</picture></td><td valign="middle"><p><strong>LiZARD</strong><br>Donor-aware reanalysis of liver single-nucleus RNA evidence, testing zonation, sampling effects, and acquisition confounds in chronic disease.</p><p><sub>Python / R · Statistical inference · Course-project grade: 96/100</sub><br><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr></tbody>
+<tbody><tr><td width="120" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/writing-quantum-dark.svg">
-<img src="assets/writing-quantum-light.svg" width="96" alt="Quantum Mean Estimation — Paper Review">
-</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Quantum Mean Estimation — Paper Review</a></strong><br>A review of Kothari and O'Donnell's algorithm, covering coherent input access, the spectral construction, and the reduction to an estimator.</p><p><sub>Research-paper review · 5 pages</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Read the review ↗</a></p></td></tr>
-</tbody>
-</table>
-
-<h2>◈ Selected work</h2>
-<p>Research software and academic projects I can share; my broader professional experience is in the CV.</p>
-<table width="100%">
-<tr><td width="35%" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/dplus-dark.svg">
-<img src="assets/dplus-light.svg" width="100%" alt="D+ scientific software">
-</picture></td><td valign="middle"><p><strong>D+ scientific software</strong><br>Hierarchical modeling and high-performance calculation of solution X-ray scattering from complex structures.</p><p><sub>C++ · Scientific computing · Published research</sub><br><a href="https://github.com/uri-raviv-lab/dplus-dev">Explore D+ ↗</a> &nbsp;·&nbsp; <a href="https://uriraviv.huji.ac.il/pages/software">Software overview ↗</a></p></td></tr>
-<tr><td width="35%" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/xplus-dark.svg">
-<img src="assets/xplus-light.svg" width="100%" alt="X+ scientific software">
-</picture></td><td valign="middle"><p><strong>X+ scientific software</strong><br>A related scientific-computing system for analyzing repeating structure in supramolecular assemblies.</p><p><sub>C++ · C# · Geometry · Scientific computing</sub><br><a href="https://github.com/uri-raviv-lab/dplus-dev/tree/development/X%2B">Explore X+ ↗</a></p><details><summary>My contributions across D+ and X+</summary><p>Designed and implemented C++ algorithms for X-ray scattering analysis, including polymer-structure modules; developed a C# system that identifies repeating subunits through geometric transformations, achieving approximately 10× speedup at equal computational precision; and contributed to an octree-based algorithm for efficient protein hydration-shell identification.</p></details></td></tr>
-<tr><td width="35%" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/graft-dark.svg">
-<img src="assets/graft-light.svg" width="100%" alt="GraFT">
-</picture></td><td valign="middle"><p><strong>GraFT</strong><br>Finding candidate gene-transfer signals in protein-similarity graphs.</p><p><sub>Python · Graph algorithms · Course-project grade: 100/100</sub><br><a href="https://github.com/roeetekoah/GraFT">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/graft-figure.png">Project figure ↗</a></p></td></tr>
-<tr><td width="35%" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/liver-dark.svg">
-<img src="assets/liver-light.svg" width="100%" alt="LiZARD">
-</picture></td><td valign="middle"><p><strong>LiZARD</strong><br>Donor-aware reanalysis of liver single-nucleus RNA evidence, testing zonation, sampling effects, and acquisition confounds in chronic disease.</p><p><sub>Python / R · Statistical inference · Course-project grade: 96/100</sub><br><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr>
-<tr><td width="35%" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
-<img src="assets/quantum-light.svg" width="100%" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
-</picture></td><td valign="middle"><p><strong>Quantum Algorithms, Codes &amp; Circuit Complexity</strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Quantum algorithms · Circuit complexity · Course grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read PDF ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation#algorithms-codes-and-circuit-complexity">Topic index ↗</a></p></td></tr>
+<img src="assets/writing-quantum-light.svg" width="96" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
+</picture></td><td valign="middle"><p><strong>Quantum Algorithms, Codes &amp; Circuit Complexity</strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Advanced theoretical coursework · Final-project grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read the report ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Mean-estimation review ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation">Repository ↗</a></p></td></tr></tbody>
 </table>
 
 <h2>⌘ Algorithms in practice</h2>
