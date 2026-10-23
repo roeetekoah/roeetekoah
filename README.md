@@ -29,8 +29,8 @@
 <tbody>
 <tr><td width="120" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/writing-dppc-dark.svg">
-<img src="assets/writing-dppc-light.svg" width="96" alt="Ion–lipid interactions in DPPC membranes">
-</picture></td><td valign="middle"><p><strong>Ion–lipid interactions in DPPC membranes</strong><br>Experimental X-ray scattering analysis of calcium binding, membrane structure, and osmotic stress.</p><p><sub>MATLAB / Python · Unpublished manuscript · Private</sub><br><sub>Paper draft under release review</sub></p></td></tr>
+<img src="assets/writing-dppc-light.svg" width="96" alt="SaLSA — Salt–Lipid Scattering Analysis">
+</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/SaLSA">SaLSA · Salt–Lipid Scattering Analysis</a></strong><br>Investigating how five metal salts affect DPPC membrane organization and lamellar spacing using small-angle X-ray scattering.</p><p><sub>SAXS · Experimental research · 2017–2018</sub><br><a href="https://github.com/roeetekoah/SaLSA">Explore repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/SaLSA/blob/main/output/pdf/main.pdf">Read manuscript ↗</a></p></td></tr>
 </tbody>
 <tbody>
 <tr><td width="120" align="center" valign="middle"><picture>
