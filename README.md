@@ -19,29 +19,29 @@
 
 <h2>↗ Research &amp; Computational Science</h2>
 <table width="100%">
-<tbody><tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/project-dplus-dark.svg">
-<img src="assets/project-dplus-light.svg" width="96" alt="D+ · Hierarchical modeling of X-ray scattering">
+<tbody><tr><td width="34%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/dplus-dark.svg">
+<img src="assets/dplus-light.svg" width="100%" alt="D+ · Hierarchical modeling of X-ray scattering">
 </picture></td><td valign="middle"><p><strong>D+ · Hierarchical modeling of X-ray scattering</strong><br>An open-source platform for hierarchical structural modeling and high-performance solution-scattering calculations, with a coauthored paper in the Journal of Applied Crystallography.</p><p><sub>C++ · Scientific computing · Coauthor, J. Appl. Cryst. (2019)</sub><br><a href="https://github.com/uri-raviv-lab/dplus-dev">Explore software ↗</a> &nbsp;·&nbsp; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6495662/">Read the paper ↗</a></p></td></tr></tbody>
-<tbody><tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/project-xplus-dark.svg">
-<img src="assets/project-xplus-light.svg" width="96" alt="X+ · Supramolecular structure analysis">
+<tbody><tr><td width="34%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/xplus-dark.svg">
+<img src="assets/xplus-light.svg" width="100%" alt="X+ · Supramolecular structure analysis">
 </picture></td><td valign="middle"><p><strong>X+ · Supramolecular structure analysis</strong><br>A scientific-computing system for analyzing repeating structure in supramolecular assemblies.</p><p><sub>C++ · C# · Geometry · Scientific computing</sub><br><a href="https://github.com/uri-raviv-lab/dplus-dev/tree/development/X%2B">Explore X+ ↗</a></p><details><summary>My contributions across D+ and X+</summary><p>Designed and implemented C++ algorithms for X-ray scattering analysis, including polymer-structure modules; developed a C# system that identifies repeating subunits through geometric transformations, achieving approximately 10× speedup at equal computational precision; and contributed to an octree-based algorithm for efficient protein hydration-shell identification.</p></details></td></tr></tbody>
-<tbody><tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/writing-dppc-dark.svg">
-<img src="assets/writing-dppc-light.svg" width="96" alt="SaLSA · Salt–Lipid Scattering Analysis">
+<tbody><tr><td width="34%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/salsa-landscape-dark.svg">
+<img src="assets/salsa-landscape-light.svg" width="100%" alt="SaLSA · Salt–Lipid Scattering Analysis">
 </picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/SaLSA">SaLSA · Salt–Lipid Scattering Analysis</a></strong><br>Investigating how five metal salts affect DPPC membrane organization and lamellar spacing using small-angle X-ray scattering.</p><p><sub>SAXS · Experimental research · 2017–2018</sub><br><a href="https://github.com/roeetekoah/SaLSA">Explore repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/SaLSA/blob/main/output/pdf/main.pdf">Read manuscript ↗</a></p></td></tr></tbody>
-<tbody><tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/project-graft-dark.svg">
-<img src="assets/project-graft-light.svg" width="96" alt="GraFT">
+<tbody><tr><td width="34%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/graft-dark.svg">
+<img src="assets/graft-light.svg" width="100%" alt="GraFT">
 </picture></td><td valign="middle"><p><strong>GraFT</strong><br>Finding candidate gene-transfer signals in protein-similarity graphs.</p><p><sub>Python · Graph algorithms · Course-project grade: 100/100</sub><br><a href="https://github.com/roeetekoah/GraFT">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/graft-figure.png">Project figure ↗</a></p></td></tr></tbody>
-<tbody><tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/project-lizard-dark.svg">
-<img src="assets/project-lizard-light.svg" width="96" alt="LiZARD">
+<tbody><tr><td width="34%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/liver-dark.svg">
+<img src="assets/liver-light.svg" width="100%" alt="LiZARD">
 </picture></td><td valign="middle"><p><strong>LiZARD</strong><br>Donor-aware reanalysis of liver single-nucleus RNA evidence, testing zonation, sampling effects, and acquisition confounds in chronic disease.</p><p><sub>Python / R · Statistical inference · Course-project grade: 96/100</sub><br><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr></tbody>
-<tbody><tr><td width="120" align="center" valign="middle"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/writing-quantum-dark.svg">
-<img src="assets/writing-quantum-light.svg" width="96" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
+<tbody><tr><td width="34%" align="center" valign="middle"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
+<img src="assets/quantum-light.svg" width="100%" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
 </picture></td><td valign="middle"><p><strong>Quantum Algorithms, Codes &amp; Circuit Complexity</strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Advanced theoretical coursework · Final-project grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read the report ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Mean-estimation review ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation">Repository ↗</a></p></td></tr></tbody>
 </table>
 
