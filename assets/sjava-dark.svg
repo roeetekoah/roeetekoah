@@ -1,31 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260" role="img">
-<title>Sjava semantic verification: declarations pass through scope and type checks. Conceptual illustration.</title>
-<defs>
-  <linearGradient id="field-sd" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#24413b"/><stop offset="1" stop-color="#102624"/></linearGradient>
-  <radialGradient id="glow-sd"><stop stop-color="#65dec0" stop-opacity=".18"/><stop offset="1" stop-color="#65dec0" stop-opacity="0"/></radialGradient>
-  <marker id="arrow-sd" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7Z" fill="#65dec0"/></marker>
-</defs>
-<rect width="500" height="260" rx="14" fill="#102624"/>
-<path d="M-20 26C71-13 152 14 180 72C205 124 163 166 59 166C0 166-31 110-20 26Z" fill="url(#field-sd)"/>
-<ellipse cx="405" cy="42" rx="126" ry="91" fill="url(#glow-sd)"/>
-
-<text x="25" y="31" fill="#9dbbb3" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.1">STATIC ANALYSIS</text>
-<text x="475" y="31" fill="#65dec0" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.8">VERIFY</text>
-<rect x="28" y="56" width="304" height="157" rx="10" fill="#17312d" stroke="#31504a"/>
-<circle cx="47" cy="74" r="3" fill="#f1a36f"/><circle cx="59" cy="74" r="3" fill="#31504a"/><circle cx="71" cy="74" r="3" fill="#65dec0"/>
-<text x="48" y="107" fill="#9dbbb3" font-family="Consolas, monospace" font-size="13">int count = 3;</text>
-<text x="48" y="136" fill="#edf7f2" font-family="Consolas, monospace" font-size="13">if (count &gt; 0) &#123;</text>
-<text x="68" y="165" fill="#65dec0" font-family="Consolas, monospace" font-size="13">String state = "valid";</text>
-<text x="48" y="194" fill="#edf7f2" font-family="Consolas, monospace" font-size="13">&#125;</text>
-<path d="M337 95C360 95 364 89 376 83" fill="none" stroke="#65dec0" stroke-width="2.6" marker-end="url(#arrow-sd)"/>
-<path d="M337 145C360 145 365 145 376 145" fill="none" stroke="#65dec0" stroke-width="2.6" marker-end="url(#arrow-sd)"/>
-<path d="M337 192C359 192 365 199 376 205" fill="none" stroke="#65dec0" stroke-width="2.6" marker-end="url(#arrow-sd)"/>
-<circle cx="410" cy="78" r="26" fill="#65dec0" opacity=".12"/><circle cx="410" cy="78" r="7" fill="#65dec0"/>
-<circle cx="432" cy="145" r="34" fill="none" stroke="#31504a" stroke-width="1.3"/><circle cx="432" cy="145" r="21" fill="#65dec0" opacity=".11"/><circle cx="432" cy="145" r="5" fill="#65dec0"/>
-<circle cx="405" cy="211" r="24" fill="#f1a36f" opacity=".13"/><path d="M395 211l7 7 15-17" fill="none" stroke="#f1a36f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="448" y="80" fill="#9dbbb3" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.1">DECLARE</text>
-<text x="462" y="148" fill="#9dbbb3" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.1">TYPE</text>
-<text x="437" y="216" fill="#f1a36f" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.1">SCOPE</text>
-<path d="M392 104C379 119 383 131 397 136M410 104C424 116 425 124 429 129M414 170C412 182 410 188 408 192" fill="none" stroke="#31504a" stroke-width="1.2" stroke-dasharray="3 5"/>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200" role="img"><title>Sjava verifier — conceptual illustration</title>
+<defs><linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#24413b"/><stop offset="1" stop-color="#102624"/></linearGradient>
+<marker id="arrow" markerWidth="6" markerHeight="6" refX="5.4" refY="3" orient="auto"><path d="M0 0L6 3L0 6Z" fill="#65dec0"/></marker></defs>
+<rect width="500" height="200" rx="14" fill="#102624"/>
+<path d="M0 0H183C196 60 165 108 91 117C55 121 19 106 0 92Z" fill="url(#field)"/>
+<text x="32" y="31" fill="#9dbbb3" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">CODE → SEMANTICS</text><path d="M49 59H34V160H49" fill="none" stroke="#31504a" stroke-width="2"/><text x="64" y="91" fill="#edf7f2" font-family="Consolas,monospace" font-size="21" >int count = 3;</text><text x="64" y="131" fill="#65dec0" font-family="Consolas,monospace" font-size="21" >if (count) &#123; … &#125;</text><path d="M311 111H350" stroke="#65dec0" stroke-width="2.5" marker-end="url(#arrow)"/><circle cx="414" cy="108" r="40" fill="#f1a36f" opacity=".14"/><path d="M396 108l13 13 24-28" stroke="#f1a36f" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="414" y="171" fill="#65dec0" font-family="Georgia,serif" font-size="18" text-anchor="middle" font-style="italic">verified</text></svg>
