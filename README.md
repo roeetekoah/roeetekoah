@@ -48,14 +48,11 @@
 <h2>⌘ Algorithms in practice</h2>
 
 <table width="100%"><tr><td>
-<a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/video-mosaicing-real-dark.png">
-<img src="assets/video-mosaicing-real-light.png" width="100%" alt="Four selected Garden source frames above the panorama produced by the current robust-registration and rectified manifold pipeline. Click to watch the actual panorama sweep.">
-</picture></a>
+<a href="https://github.com/roeetekoah/video-mosaicing#showcase"><img src="assets/video-mosaicing-house.gif" width="100%" alt="House panorama sweep rendered by direct multi-frame Lucas–Kanade with local parallax compensation."></a>
 <h3><a href="https://github.com/roeetekoah/video-mosaicing">Video mosaicing</a></h3>
-<p>Moving-viewpoint panoramas from a continuous camera scan, built on direct pyramidal Lucas–Kanade alignment, coordinated strip selection and seam blending. A depth-aware LK extension compensates local parallax in selected scenes; the published gallery uses the original rendering where it gives the better result.</p>
+<p>101 rendered viewpoints from real House footage, using direct multi-frame Lucas–Kanade alignment and local parallax compensation. The project preserves its original pyramidal LK pipeline and selects the depth-aware extension per input, retaining the original rendering where it gives the better result.</p>
 <p><sub>Python · Computer vision</sub><br><img src="assets/project-grade-96.svg" width="180" height="24" align="absmiddle" alt="Original coursework grade: 96/100"></p>
-<p><a href="https://github.com/roeetekoah/video-mosaicing#video-mosaicing">Watch the actual panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk-evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
+<p><a href="https://github.com/roeetekoah/video-mosaicing#showcase">Watch the panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk-evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
 </td></tr></table>
 
 <table width="100%"><tr>
