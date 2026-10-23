@@ -15,7 +15,7 @@
 <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg">
 <img src="assets/email-light.svg" width="83" alt="Email">
 </picture></a><br>
-<sub>Background: JSOF · Matzov · Mobileye · Raviv Research Group<br>Computer Science at the Hebrew University of Jerusalem.</sub></p>
+<sub>Background: JSOF · Matzov · Mobileye · Raviv Research Group<br>Computer Science B.Sc. @ the Hebrew University of Jerusalem.</sub></p>
 
 <h2>↗ Research &amp; Computational Science</h2>
 <table width="100%">
