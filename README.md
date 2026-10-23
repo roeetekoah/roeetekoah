@@ -35,8 +35,8 @@
 <tbody>
 <tr><td width="120" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/writing-quantum-dark.svg">
-<img src="assets/writing-quantum-light.svg" width="96" alt="Inside the Quantum project">
-</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/quantum-computation">Inside the Quantum project</a></strong><br>Proofs, a research-paper review, and a sixteen-chapter coursebook draft.</p><p><sub>Mathematical writing · Public working edition</sub><br><a href="https://github.com/roeetekoah/quantum-computation">Explore the writing ↗</a></p></td></tr>
+<img src="assets/writing-quantum-light.svg" width="96" alt="Quantum Mean Estimation — Paper Review">
+</picture></td><td valign="middle"><p><strong><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Quantum Mean Estimation — Paper Review</a></strong><br>A review of Kothari and O'Donnell's algorithm, covering coherent input access, the spectral construction, and the reduction to an estimator.</p><p><sub>Research-paper review · 5 pages</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-mean-estimation-review.pdf">Read the review ↗</a></p></td></tr>
 </tbody>
 </table>
 
@@ -61,8 +61,8 @@
 </picture></td><td valign="middle"><p><strong>LiZARD</strong><br>Donor-aware reanalysis of liver single-nucleus RNA evidence, testing zonation, sampling effects, and acquisition confounds in chronic disease.</p><p><sub>Python / R · Statistical inference · Course-project grade: 96/100</sub><br><a href="https://github.com/roeetekoah/liver-zonation">Explore repository ↗</a> &nbsp;·&nbsp; <a href="assets/liver-schematic.png">Method illustration ↗</a></p></td></tr>
 <tr><td width="35%" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
-<img src="assets/quantum-light.svg" width="100%" alt="Quantum computation">
-</picture></td><td valign="middle"><p><strong>Quantum computation</strong><br>Proofs, quantum algorithms, and a research-paper review, with a sixteen-chapter coursebook draft.</p><p><sub>Quantum algorithms · Mathematical writing · Final-project grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation">Explore repository ↗</a></p></td></tr>
+<img src="assets/quantum-light.svg" width="100%" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
+</picture></td><td valign="middle"><p><strong>Quantum Algorithms, Codes &amp; Circuit Complexity</strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Theory report · Course grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read the report ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation#theory-report">Topic index ↗</a></p></td></tr>
 </table>
 
 <h2>⌘ Algorithms in practice</h2>
