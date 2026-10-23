@@ -62,7 +62,7 @@
 <tr><td width="35%" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
 <img src="assets/quantum-light.svg" width="100%" alt="Quantum computation">
-</picture></td><td valign="middle"><p><strong>Quantum computation</strong><br>Proofs, quantum algorithms, and a research-paper review, with a sixteen-chapter coursebook draft.</p><p><sub>Quantum algorithms · Mathematical writing</sub><br><a href="https://github.com/roeetekoah/quantum-computation">Explore repository ↗</a></p></td></tr>
+</picture></td><td valign="middle"><p><strong>Quantum computation</strong><br>Proofs, quantum algorithms, and a research-paper review, with a sixteen-chapter coursebook draft.</p><p><sub>Quantum algorithms · Mathematical writing · Final-project grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation">Explore repository ↗</a></p></td></tr>
 </table>
 
 <h2>⌘ Algorithms in practice</h2>
