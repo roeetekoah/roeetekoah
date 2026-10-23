@@ -97,7 +97,7 @@
 <td width="50%" valign="top"><p><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/course-collections-card-dark.svg">
 <img src="assets/course-collections-card-light.svg" width="100%" alt="Course collections">
-</picture></p><p><strong>Course collections</strong><br>Connected labs, reports, and notes across seven areas of the degree.</p><p><sub>Algorithms · Experiments · Writing<br><a href="#course-collections">Explore the collection plan ↓</a></sub></p></td>
+</picture></p><p><strong>Course collections</strong><br>Connected labs, reports, and notes across seven areas of the degree.</p><p><sub>Algorithms · Experiments · Writing<br><a href="#-course-collections">Explore the collection plan ↓</a></sub></p></td>
 </tr></table>
 
 <h2>▦ Course collections</h2>
