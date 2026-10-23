@@ -47,12 +47,13 @@
 
 <h2>⌘ Algorithms in practice</h2>
 
-<table width="100%"><tr><td>
-<a href="https://github.com/roeetekoah/video-mosaicing#showcase"><img src="assets/video-mosaicing-house.gif" width="100%" alt="House panorama sweep rendered by direct multi-frame Lucas–Kanade with local parallax compensation."></a>
+<table width="100%"><tr>
+<td width="32%" align="center" valign="middle"><a href="https://github.com/roeetekoah/video-mosaicing/blob/main/assets/showcase/trees-sweep.mp4"><img src="assets/video-mosaicing-trees.gif" width="100%" alt="Vertical Trees panorama sweep: 101 rendered viewpoints from the original pyramidal Lucas–Kanade pipeline."></a></td>
+<td width="68%" valign="middle">
 <h3><a href="https://github.com/roeetekoah/video-mosaicing">Video mosaicing</a></h3>
-<p>101 rendered viewpoints from real House footage, using direct multi-frame Lucas–Kanade alignment and local parallax compensation. The project preserves its original pyramidal LK pipeline and selects the depth-aware extension per input, retaining the original rendering where it gives the better result.</p>
-<p><sub>Python · Computer vision</sub><br><img src="assets/project-grade-96.svg" width="180" height="24" align="absmiddle" alt="Original coursework grade: 96/100"></p>
-<p><a href="https://github.com/roeetekoah/video-mosaicing#showcase">Watch the panorama sweep ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk-evaluation.md">Per-video evaluation ↗</a> &nbsp;·&nbsp; <a href="assets/panorama.png">Original coursework panorama ↗</a></p>
+<p>Moving-viewpoint panoramas from real video, using direct pyramidal Lucas–Kanade alignment, strip selection and seam blending. The Trees sweep shows 101 rendered viewpoints from the original pipeline; a local-depth LK extension is available for selected scenes.</p>
+<p><sub>Python · Computer vision</sub><br><img src="assets/project-grade-96.svg" width="160" alt="Original coursework grade: 96/100"></p>
+<p><a href="https://github.com/roeetekoah/video-mosaicing/blob/main/assets/showcase/trees-sweep.mp4">Watch the Trees sweep ↗</a><br><a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a><br><a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk-evaluation.md">Per-video evaluation ↗</a></p>
 </td></tr></table>
 
 <table width="100%"><tr>
