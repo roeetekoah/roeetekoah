@@ -62,7 +62,7 @@
 <tr><td width="35%" align="center" valign="middle"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/quantum-dark.svg">
 <img src="assets/quantum-light.svg" width="100%" alt="Quantum Algorithms, Codes &amp; Circuit Complexity">
-</picture></td><td valign="middle"><p><strong>Quantum Algorithms, Codes &amp; Circuit Complexity</strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Theory report · Course grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read the report ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation#theory-report">Topic index ↗</a></p></td></tr>
+</picture></td><td valign="middle"><p><strong>Quantum Algorithms, Codes &amp; Circuit Complexity</strong><br>Local information in quantum codes, state-preparation lower bounds, finite-precision discrete logarithms, and quantum fingerprinting.</p><p><sub>Quantum algorithms · Circuit complexity · Course grade: 98/100</sub><br><a href="https://github.com/roeetekoah/quantum-computation/blob/main/pdfs/quantum-computation-project.pdf">Read PDF ↗</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/quantum-computation#algorithms-codes-and-circuit-complexity">Topic index ↗</a></p></td></tr>
 </table>
 
 <h2>⌘ Algorithms in practice</h2>
