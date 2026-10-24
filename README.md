@@ -56,7 +56,7 @@
 <p><strong><a href="https://github.com/roeetekoah/video-mosaicing">Video mosaicing</a></strong></p>
 <img src="assets/video-mosaicing-trees.gif" width="130" align="left" alt="Animated Trees panorama from the original video-mosaicing pipeline.">
 <p>Moving-viewpoint panoramas from real video, using pyramidal Lucas–Kanade alignment, strip selection, and seam blending.</p>
-<span><img src="assets/metadata-space-117.svg" width="1" height="117" alt="" aria-hidden="true"><br></span><sub>Python · Computer vision · <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grade-text-96-dark.svg"><img src="assets/grade-text-96-light.svg" width="87" height="14" align="absmiddle" alt="Grade 96/100"></picture> &nbsp;·&nbsp; <a href="https://github.com/user-attachments/assets/a524be17-8340-497b-bc20-414c4ff500e0" title="Watch the Trees sweep ↗">Video</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md" title="Method walkthrough ↗">Method</a></sub>
+<span><img src="assets/metadata-space-138.svg" width="1" height="138" alt="" aria-hidden="true"><br></span><sub>Python · Computer vision · <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grade-text-96-dark.svg"><img src="assets/grade-text-96-light.svg" width="87" height="14" align="absmiddle" alt="Grade 96/100"></picture> &nbsp;·&nbsp; <a href="https://github.com/user-attachments/assets/a524be17-8340-497b-bc20-414c4ff500e0" title="Watch the Trees sweep ↗">Video</a> &nbsp;·&nbsp; <a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md" title="Method walkthrough ↗">Method</a></sub>
 
 </td></tr></tbody>
 
