@@ -5,7 +5,7 @@
 <img src="assets/hero-light.svg" width="100%" alt="Roee Tekoah — security research, algorithms, and computational science.">
 </picture>
 
-<p align="left"><picture><source media="(max-width: 520px)" srcset="assets/header-inset-mobile.svg"><img src="assets/header-inset.svg" align="left" alt=""></picture><a href="assets/CV.pdf">CV ↗</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/roeet">LinkedIn ↗</a> &nbsp;·&nbsp; <a href="mailto:roeetekoah@gmail.com">Email ↗</a><br>
+<p align="left"><picture><source media="(max-width: 520px)" srcset="assets/header-inset-mobile-final.svg"><img src="assets/header-inset-final.svg" align="left" alt=""></picture><a href="assets/CV.pdf">CV ↗</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/roeet">LinkedIn ↗</a> &nbsp;·&nbsp; <a href="mailto:roeetekoah@gmail.com">Email ↗</a><br>
 <sub>Background: JSOF · Matzov · Mobileye · Raviv Research Group<br>Computer Science B.Sc. @ the Hebrew University of Jerusalem.</sub></p>
 
 
