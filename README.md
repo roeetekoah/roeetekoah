@@ -54,7 +54,7 @@
 <h4>Visual computing</h4>
 
 <table width="100%"><tr>
-<td width="32%" align="center" valign="middle"><a href="https://github.com/user-attachments/assets/a524be17-8340-497b-bc20-414c4ff500e0"><img src="assets/video-mosaicing-trees.gif" width="100%" alt="Vertical Trees panorama sweep: 101 rendered viewpoints from the original pyramidal Lucas–Kanade pipeline."></a></td>
+<td width="32%" align="center" valign="middle"><img src="assets/video-mosaicing-trees.gif" width="100%" alt="Vertical Trees panorama sweep: 101 rendered viewpoints from the original pyramidal Lucas–Kanade pipeline."></td>
 <td width="68%" valign="middle">
 <h3><a href="https://github.com/roeetekoah/video-mosaicing">Video mosaicing</a></h3>
 <p>Moving-viewpoint panoramas from real video, using direct pyramidal Lucas–Kanade alignment, strip selection and seam blending. The Trees sweep shows 101 rendered viewpoints from the original pipeline; a local-depth LK extension is available for selected scenes.</p>
