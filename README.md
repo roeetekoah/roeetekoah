@@ -45,19 +45,17 @@
 
 <h3>⌘ Algorithms in practice</h3>
 
-<table width="100%"><tbody><tr>
-<td width="70%" valign="top">
+<table width="100%"><tbody><tr><td width="70%" valign="top">
 <h3><a href="https://github.com/roeetekoah/video-mosaicing">Video mosaicing</a></h3>
 <img src="assets/video-mosaicing-trees.gif" width="140" align="left" hspace="8" alt="Animated Trees panorama from the original video-mosaicing pipeline.">
 <p>Moving-viewpoint panoramas from real video, using pyramidal Lucas–Kanade alignment, strip selection, and seam blending.</p>
 <p><sub>Python · Computer vision · <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grade-text-96-dark.svg"><img src="assets/grade-text-96-light.svg" width="87" height="14" align="absmiddle" alt="Grade 96/100"></picture></sub></p>
-<p><a href="https://github.com/user-attachments/assets/a524be17-8340-497b-bc20-414c4ff500e0">Watch the Trees sweep ↗</a><br><a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a></p>
-</td>
-<td width="30%" valign="top">
+
+</td><td width="30%" valign="top">
 <p><img src="assets/blending-preview.png" width="180" alt="Original multiscale apple-orange blend."></p>
 <p><strong><a href="https://github.com/roeetekoah/multiscale-image-blending">Multiscale Blending &amp; Hybrid Images</a></strong><br>Laplacian-pyramid blending and frequency-based hybrids, with analysis of the visual results.</p>
 <p><sub>Python · Image processing · <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grade-text-100-dark.svg"><img src="assets/grade-text-100-light.svg" width="87" height="14" align="absmiddle" alt="Grade 100/100"></picture></sub></p>
-<p><br><a href="https://github.com/roeetekoah/multiscale-image-blending">Explore repository ↗</a></p></td></tr></tbody></table>
+</td></tr><tr><td valign="bottom"><p><a href="https://github.com/user-attachments/assets/a524be17-8340-497b-bc20-414c4ff500e0">Watch the Trees sweep ↗</a><br><a href="https://github.com/roeetekoah/video-mosaicing/blob/main/docs/direct-lk.md">Method walkthrough ↗</a></p></td><td valign="bottom"><p><a href="https://github.com/roeetekoah/multiscale-image-blending">Explore repository ↗</a></p></td></tr></tbody></table>
 
 <table width="100%">
 <tbody><tr><td width="50%" valign="top"><p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/aligner-dark.svg"><img src="assets/aligner-light.svg" width="500" alt="Short-read aligner — original conceptual illustration"></picture></p><hr><p><strong><a href="https://github.com/roeetekoah/short-read-aligner">Short-read aligner</a></strong><br>Seed-and-extend read mapping, with a reference implementation and benchmark experiments.</p><p><sub>Python · Algorithms · <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grade-text-100-dark.svg"><img src="assets/grade-text-100-light.svg" width="87" height="14" align="absmiddle" alt="Grade 100/100"></picture></sub></p><p><br><sub><a href="https://github.com/roeetekoah/short-read-aligner">Explore repository ↗</a></sub></p></td><td width="50%" valign="top"><p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/parsing-dark.svg"><img src="assets/parsing-light.svg" width="500" alt="Dependency parsing — original conceptual illustration"></picture></p><hr><p><strong><a href="https://github.com/roeetekoah/dependency-parsing">Dependency parsing</a></strong><br>Learning sentence structure with maximum spanning trees and transformer attention features.</p><p><sub>Python · NLP · Structured prediction · <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grade-text-100-dark.svg"><img src="assets/grade-text-100-light.svg" width="87" height="14" align="absmiddle" alt="Grade 100/100"></picture></sub></p><p><br><sub><a href="https://github.com/roeetekoah/dependency-parsing">Explore repository ↗</a></sub></p></td></tr></tbody>
